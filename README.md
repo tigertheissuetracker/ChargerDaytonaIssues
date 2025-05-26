@@ -1,6 +1,6 @@
 # ChargerDaytonaIssues
 
-This repo contains issues related to the Charger Daytona.
+This repo contains issues related to the Charger Daytona and other [resources](https://github.com/tigertheissuetracker/ChargerDaytonaIssues/wiki/Resources) I find online related to issues that affect this vehicle.
 
 The goal is to collect as many issues as possible, with the most detailed technical information available.
 
