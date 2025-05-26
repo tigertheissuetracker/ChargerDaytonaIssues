@@ -8,7 +8,7 @@ I am making this repo public because the information may be useful to others.
 
 ## Disclaimer
 
-I do not own a Charger Daytona. I do like the car very much and hope to own one someday.
+I do not own a Charger Daytona.
 
 I am not affiliated in any way with Dodge, Stellantis, or any other private company.
 I am simply a private individual interested in collecting technical information about issues affecting the Charger Daytona.
